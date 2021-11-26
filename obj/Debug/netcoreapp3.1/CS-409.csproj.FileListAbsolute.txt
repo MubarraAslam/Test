@@ -1,0 +1,13 @@
+C:\Users\PITS\Desktop\CS-409\bin\Debug\netcoreapp3.1\CS-409.exe
+C:\Users\PITS\Desktop\CS-409\bin\Debug\netcoreapp3.1\CS-409.deps.json
+C:\Users\PITS\Desktop\CS-409\bin\Debug\netcoreapp3.1\CS-409.runtimeconfig.json
+C:\Users\PITS\Desktop\CS-409\bin\Debug\netcoreapp3.1\CS-409.runtimeconfig.dev.json
+C:\Users\PITS\Desktop\CS-409\bin\Debug\netcoreapp3.1\CS-409.dll
+C:\Users\PITS\Desktop\CS-409\bin\Debug\netcoreapp3.1\CS-409.pdb
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.csprojAssemblyReference.cache
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.AssemblyInfoInputs.cache
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.AssemblyInfo.cs
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.csproj.CoreCompileInputs.cache
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.dll
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.pdb
+C:\Users\PITS\Desktop\CS-409\obj\Debug\netcoreapp3.1\CS-409.genruntimeconfig.cache
